@@ -41,9 +41,7 @@ body {
 
 .container {
   width: 550px;
-  height: 1200px;
-  min-height: 1200px;
-  max-height: 1200px;
+  height: auto;
   margin: 0 auto;
   border-style: solid;
   border-color: #e9ebee;
